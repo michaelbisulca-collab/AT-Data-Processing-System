@@ -1,0 +1,18 @@
+Georgia
+78.6 14
+North Carolina
+95.7 20
+Tennessee
+71.0 10
+Virginia
+550.3 120
+Pennsylvania
+229.6 60
+New York
+88.4 15
+Vermont
+150.0 35
+New Hampshire
+161.0 40
+Maine
+281.4 60
